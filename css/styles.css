@@ -1,0 +1,32 @@
+body {
+  background-color: orange;
+}
+
+h1 {
+  font-size: 55px;
+  font-family: monospace;
+}
+
+p {
+  font-size: 22px;
+  font-family: monospace;
+}
+
+ul {
+  font-family: monospace;
+}
+
+h2 {
+  font-size: 22px;
+  font-family: monospace;
+}
+
+h3 {
+  font-size: 22px;
+  font-family: monospace;
+}
+
+a {
+  font-size: 10;
+  font-family: cursive;
+}

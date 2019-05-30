@@ -5,6 +5,8 @@ body {
 h1 {
   font-size: 70px;
   font-family: monospace;
+  border: solid black 8px;
+  text-align: center;
 }
 
 p {
@@ -30,4 +32,14 @@ h3 {
 a {
   font-size: 10;
   font-family: cursive;
+}
+
+.activities {
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.food {
+  margin-top: 50px;
+  margin-bottom: 100px;
 }
